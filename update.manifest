@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "date": "2026-10-13",
+  "notes": "Licenckulcs és automatikus frissítés.",
+  "installer": {
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.2.0/leltar-0.2.0-telepito.exe",
+    "sha256": "3edea069489daa92a5c48d00a8fc61ed5558c959ac1c99676de6af6c6f7f4478"
+  },
+  "portable": {
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.2.0/leltar-0.2.0.exe",
+    "sha256": "472bc6124cf87e1f6ac6f8c11da41e5aa03491680f2369226da1faf559b35cc6"
+  }
+}
