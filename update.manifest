@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "date": "2026-10-13",
+  "notes": "Vezetett leltározás, új olvasókezelés, napló, nyomtatványok sablonból, titkosítható mentés.",
+  "installer": {
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.2.0/leltar-0.2.0-telepito.exe",
+    "sha256": "aff84c55ac71f8a1827f5e401b8d74407d0f8b1d36b4b243755924c3317f7c4b"
+  },
+  "portable": {
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.2.0/leltar-0.2.0.exe",
+    "sha256": "6e8528a3cfde043b969da1f7102c9f9b852eb1d302f9553b1bbb3ba7a7ef1b66"
+  }
+}
