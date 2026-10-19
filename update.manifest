@@ -1,13 +1,13 @@
 {
-  "version": "0.2.1-pre.1",
-  "date": "2026-10-13",
-  "notes": "Előzetes változat a frissítés kipróbálásához. A telepítő szövegei magyarul.",
+  "version": "0.3.0",
+  "date": "2026-10-19",
+  "notes": "Feature preview",
   "installer": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.2.1-pre.1/leltar-0.2.1-pre.1-telepito.exe",
-    "sha256": "47e445e38f7d738a9fda62977f096bc62e37b817755d7648a6cceb195f82cbca"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.3.0/leltar-0.3.0-telepito.exe",
+    "sha256": "a3beb481e5413d623871498da3100886bcbe95b01a35c23ecb37f7dba66e0b29"
   },
   "portable": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.2.1-pre.1/leltar-0.2.1-pre.1.exe",
-    "sha256": "5dfb61c9c40b94701445aeafd0697308a982b411fea83077e94551153c63af6f"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.3.0/leltar-0.3.0.exe",
+    "sha256": "cabd6376d4e112dfc192c8b28344328eb1e07b25804e7912930f81a3a8eec88c"
   }
 }
