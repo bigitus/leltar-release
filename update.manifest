@@ -1,13 +1,13 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.1",
   "date": "2026-10-19",
   "notes": "Feature preview",
   "installer": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.3.0/leltar-0.3.0-telepito.exe",
-    "sha256": "a3beb481e5413d623871498da3100886bcbe95b01a35c23ecb37f7dba66e0b29"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.3.1/leltar-0.3.1-telepito.exe",
+    "sha256": "fec25c9e1dd9eb7919ec9ac956280ed9574cea4b44e759ad193dedaf62aea746"
   },
   "portable": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.3.0/leltar-0.3.0.exe",
-    "sha256": "cabd6376d4e112dfc192c8b28344328eb1e07b25804e7912930f81a3a8eec88c"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.3.1/leltar-0.3.1.exe",
+    "sha256": "76ce0419698a9223e8db0e0b741b1571209f89c58935effd9a8cc62f860ec7d1"
   }
 }
