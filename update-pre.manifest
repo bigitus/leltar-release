@@ -1,0 +1,13 @@
+{
+  "version": "0.5.1-pre.1",
+  "date": "2026-10-24",
+  "notes": "Előzetes változat: adatbázis, felhasználók és kiszolgáló; szalagos menü; helyek fája; bizonylatszámozás, sztornó, jóváhagyás; vak leltár és ellenőrző számlálás.",
+  "installer": {
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.5.1-pre.1/leltar-0.5.1-pre.1-telepito.exe",
+    "sha256": "e4041c6db03bb543c4ebb5b09e39afdc2d919de832a436fc9bcf86426b091990"
+  },
+  "portable": {
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.5.1-pre.1/leltar-0.5.1-pre.1.exe",
+    "sha256": "cf3c413789c50d105b9f18701a46d40f095d0c3e1d37e49e10a1652e6f6c434e"
+  }
+}
