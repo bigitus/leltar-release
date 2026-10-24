@@ -1,13 +1,13 @@
 {
-  "version": "0.5.1-pre.1",
+  "version": "0.5.1-pre.2",
   "date": "2026-10-24",
-  "notes": "Előzetes változat: adatbázis, felhasználók és kiszolgáló; szalagos menü; helyek fája; bizonylatszámozás, sztornó, jóváhagyás; vak leltár és ellenőrző számlálás.",
+  "notes": "Javítások: a bejelentkezés előtti hibaüzenetek megszűntek; a telepítő a futó program bezárásáról magyarul kérdez; előzetes változatok külön csatornán.",
   "installer": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.5.1-pre.1/leltar-0.5.1-pre.1-telepito.exe",
-    "sha256": "e4041c6db03bb543c4ebb5b09e39afdc2d919de832a436fc9bcf86426b091990"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.5.1-pre.2/leltar-0.5.1-pre.2-telepito.exe",
+    "sha256": "a6f242e156f803b1d644e6baf6aac02ba7d37a77efc5b238c24b83264bf323db"
   },
   "portable": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.5.1-pre.1/leltar-0.5.1-pre.1.exe",
-    "sha256": "cf3c413789c50d105b9f18701a46d40f095d0c3e1d37e49e10a1652e6f6c434e"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.5.1-pre.2/leltar-0.5.1-pre.2.exe",
+    "sha256": "c1d7409182cfab0c3ee008f148ba5074621cdd967a0353f89ba91398e93736f5"
   }
 }
