@@ -1,13 +1,13 @@
 {
-  "version": "0.5.1-pre.2",
-  "date": "2026-10-24",
-  "notes": "Javítások: a bejelentkezés előtti hibaüzenetek megszűntek; a telepítő a futó program bezárásáról magyarul kérdez; előzetes változatok külön csatornán.",
+  "version": "0.5.1-pre.3",
+  "date": "2026-10-25",
+  "notes": "Újdonságok: kimutatások (mozgáslista, összesítések, eszközkarton); leltárterv, fordulónapi korrekció és javaslat a leltáreltérések rendezésére; felvétel számláról több tétellel; több mező tömeges módosítása; vagyoncsoportok (nézet, {GRP} a leltárszámban, bizonylatszám-sorozat, jogosultság); sablonszerkesztő; személyek betöltése Excelből és mentése Excelbe (a kiszolgáló kezelőprogramjában is).",
   "installer": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.5.1-pre.2/leltar-0.5.1-pre.2-telepito.exe",
-    "sha256": "a6f242e156f803b1d644e6baf6aac02ba7d37a77efc5b238c24b83264bf323db"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.5.1-pre.3/leltar-0.5.1-pre.3-telepito.exe",
+    "sha256": "5bd51da21735f7b2e90f43b600f59c403a994e5ede6399baca6e6c6766f9451b"
   },
   "portable": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.5.1-pre.2/leltar-0.5.1-pre.2.exe",
-    "sha256": "c1d7409182cfab0c3ee008f148ba5074621cdd967a0353f89ba91398e93736f5"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.5.1-pre.3/leltar-0.5.1-pre.3.exe",
+    "sha256": "4509b3fd89abeda621f20fb9b86f29db398921fff75074736d6d081f81dc7ca2"
   }
 }
