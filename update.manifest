@@ -1,13 +1,13 @@
 {
-  "version": "0.6.0",
-  "date": "2026-10-26",
-  "notes": "Több nyilvántartás (például több szervezet): választó a szalagon, áthelyezés nyilvántartások között, jogosultság nyilvántartásonként, leltár több nyilvántartásból. Értesítések a szalag csengőjében. Mentés Wordbe. Címkenyomtatás közvetlenül Niimbot nyomtatóra. Kiszolgáló: a kezelőprogramban Beállítások és Felhasználók lap.",
+  "version": "0.6.1",
+  "date": "2026-10-28",
+  "notes": "Biztonsági javítások: a kiszolgáló csak a felhasználó nyilvántartásainak adatait küldi a gépre; futtatható fájl nem csatolható és nem nyitható meg mellékletként; egy idegen gép hibás próbálkozásai nem zárhatják ki a rendszergazdát; szigorúbb védelem a programban. Ügyfél módban a nyomtatványsablonok a kiszolgálón vannak, így minden gép ugyanazt nyomtatja.",
   "installer": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.0/leltar-0.6.0-telepito.exe",
-    "sha256": "b27860552019e72326a9449b7bd6cf77f95d1b5f80e3ecb633fe82346a9722dc"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.1/leltar-0.6.1-telepito.exe",
+    "sha256": "eef6cb3029bc5090724e7f65609cca6d2573dd72e7a32a4674cca224dac133cf"
   },
   "portable": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.0/leltar-0.6.0.exe",
-    "sha256": "cf7143d8de96e007eb33698e15c55cb0df74fd360756a2f828c99f7567fcb870"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.1/leltar-0.6.1.exe",
+    "sha256": "8d580849c3776be5081cd7e97d6326593a57a71c6f7528eea2080f25837acfb4"
   }
 }
