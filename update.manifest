@@ -1,13 +1,13 @@
 {
-  "version": "0.6.1",
-  "date": "2026-10-28",
-  "notes": "Biztonsági javítások: a kiszolgáló csak a felhasználó nyilvántartásainak adatait küldi a gépre; futtatható fájl nem csatolható és nem nyitható meg mellékletként; egy idegen gép hibás próbálkozásai nem zárhatják ki a rendszergazdát; szigorúbb védelem a programban. Ügyfél módban a nyomtatványsablonok a kiszolgálón vannak, így minden gép ugyanazt nyomtatja.",
+  "version": "0.6.2",
+  "date": "2026-11-04",
+  "notes": "Javítások: a helyek adatlapja felelős nélküli helynél is szerkeszthető; a soros (SPP) olvasó kódjából kimaradnak a vezérlőkarakterek, így egy bekapcsolva maradt előtag nem rontja el a beolvasást; a nyilvántartás-választó tételszáma betöltés után is friss. Excel-betöltés: az oszlopok céljai csoportosítva, új „Helyiség kódja” cél, új saját mező létrehozható a fejléc nevén; a saját mezővel azonos nevű egyéb adat mentéskor a mezőbe kerül.",
   "installer": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.1/leltar-0.6.1-telepito.exe",
-    "sha256": "eef6cb3029bc5090724e7f65609cca6d2573dd72e7a32a4674cca224dac133cf"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.2/leltar-0.6.2-telepito.exe",
+    "sha256": "2c1749cff89be9b4410327ee7e049f4d5c7d3b4b1586e4a093394e0f0370dd79"
   },
   "portable": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.1/leltar-0.6.1.exe",
-    "sha256": "8d580849c3776be5081cd7e97d6326593a57a71c6f7528eea2080f25837acfb4"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.2/leltar-0.6.2.exe",
+    "sha256": "f79641ce3c2965e6f58d9be03306821c6e3b079109a1f30f44021aa1c7e498af"
   }
 }
