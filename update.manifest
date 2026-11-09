@@ -1,13 +1,13 @@
 {
-  "version": "0.6.2",
-  "date": "2026-11-04",
-  "notes": "Javítások: a helyek adatlapja felelős nélküli helynél is szerkeszthető; a soros (SPP) olvasó kódjából kimaradnak a vezérlőkarakterek, így egy bekapcsolva maradt előtag nem rontja el a beolvasást; a nyilvántartás-választó tételszáma betöltés után is friss. Excel-betöltés: az oszlopok céljai csoportosítva, új „Helyiség kódja” cél, új saját mező létrehozható a fejléc nevén; a saját mezővel azonos nevű egyéb adat mentéskor a mezőbe kerül.",
+  "version": "0.6.3",
+  "date": "2026-11-09",
+  "notes": "Fontos: kiszolgálós használatnál előbb a kiszolgálót kell frissíteni (leltar-kiszolgalo-0.6.3-telepito.exe), utána a gépeket; régebbi kiszolgálóhoz az új program csak olvasásra és leltározásra kapcsolódik. Újdonságok: címkeszerkesztő közös elrendezésekkel (export és import is), választható vonalkódtípusok és 2D kódok (Data Matrix, PDF417); Niimbot nyomtatóból a betöltött tekercs kiolvasása (fajta, hátralévő címkék, a megjegyzett méret); eszközök kölcsönadása intézmények között; idegen eszköz megjelölése a leltárban; kategóriák panelje alkategóriákkal; szétbontás közös mellékletekkel; helyek tömeges kezelése; választékok egy helyen; számmezők ezres tagolással. Soros olvasó: a megszakadt kimenő kapcsolat újranyílik, az eltűnt port helyett az eszköz új portját keresi meg, a napló dátumos.",
   "installer": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.2/leltar-0.6.2-telepito.exe",
-    "sha256": "2c1749cff89be9b4410327ee7e049f4d5c7d3b4b1586e4a093394e0f0370dd79"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.3/leltar-0.6.3-telepito.exe",
+    "sha256": "00ee1461595f6043743e11d5723b5e99538366f2f15040df2e2cc6ecfaa79ac7"
   },
   "portable": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.2/leltar-0.6.2.exe",
-    "sha256": "f79641ce3c2965e6f58d9be03306821c6e3b079109a1f30f44021aa1c7e498af"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.3/leltar-0.6.3.exe",
+    "sha256": "6132c9d8df6e2226b700cf372077fff61d94f75d8b0c7eaae773cf86975998c7"
   }
 }
