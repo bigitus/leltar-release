@@ -1,13 +1,13 @@
 {
-  "version": "0.6.3",
-  "date": "2026-11-09",
-  "notes": "Fontos: kiszolgálós használatnál előbb a kiszolgálót kell frissíteni (leltar-kiszolgalo-0.6.3-telepito.exe), utána a gépeket; régebbi kiszolgálóhoz az új program csak olvasásra és leltározásra kapcsolódik. Újdonságok: címkeszerkesztő közös elrendezésekkel (export és import is), választható vonalkódtípusok és 2D kódok (Data Matrix, PDF417); Niimbot nyomtatóból a betöltött tekercs kiolvasása (fajta, hátralévő címkék, a megjegyzett méret); eszközök kölcsönadása intézmények között; idegen eszköz megjelölése a leltárban; kategóriák panelje alkategóriákkal; szétbontás közös mellékletekkel; helyek tömeges kezelése; választékok egy helyen; számmezők ezres tagolással. Soros olvasó: a megszakadt kimenő kapcsolat újranyílik, az eltűnt port helyett az eszköz új portját keresi meg, a napló dátumos.",
+  "version": "0.6.4",
+  "date": "2026-11-10",
+  "notes": "Fontos: kiszolgálós használatnál előbb a kiszolgálót kell frissíteni (leltar-kiszolgalo-0.6.4-telepito.exe), utána a gépeket. Újdonságok: rossz hely jelzése leltár közben (hangos figyelmeztetés, ha egymás után több tétel egy másik helyiségbe tartozik; átváltás egy gombbal; a határ és a gyakran mozgó eszközök a Beállítások › Beolvasás oldalon); beolvasások áthelyezése a helyes helyre, ha rossz hely volt kiválasztva; címke nélküli (lekopott címkéjű) eszközök felvétele helyenként darabszámmal, párosítás a hiányzó tételekkel és újracímkézés; Niimbot nyomtató: automatikus keresés a portokon, a Bluetooth-eszköz neve a portlistában, a nyomtató állapota (akkumulátor, fedél, címke), és javítva a 'buffer' hibával megszakadó nyomtatás.",
   "installer": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.3/leltar-0.6.3-telepito.exe",
-    "sha256": "00ee1461595f6043743e11d5723b5e99538366f2f15040df2e2cc6ecfaa79ac7"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.4/leltar-0.6.4-telepito.exe",
+    "sha256": "d37b371e9d56e068c47e84dcc98a489fe3a3ad1fed88840c045449ac672359dc"
   },
   "portable": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.3/leltar-0.6.3.exe",
-    "sha256": "6132c9d8df6e2226b700cf372077fff61d94f75d8b0c7eaae773cf86975998c7"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.4/leltar-0.6.4.exe",
+    "sha256": "67a2ca1b3f7533ee503d3078be5c27ab27976e8360b3fc6743a205db51c90c26"
   }
 }
