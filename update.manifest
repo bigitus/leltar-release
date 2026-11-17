@@ -1,13 +1,13 @@
 {
-  "version": "0.6.4",
-  "date": "2026-11-10",
-  "notes": "Fontos: kiszolgálós használatnál előbb a kiszolgálót kell frissíteni (leltar-kiszolgalo-0.6.4-telepito.exe), utána a gépeket. Újdonságok: rossz hely jelzése leltár közben (hangos figyelmeztetés, ha egymás után több tétel egy másik helyiségbe tartozik; átváltás egy gombbal; a határ és a gyakran mozgó eszközök a Beállítások › Beolvasás oldalon); beolvasások áthelyezése a helyes helyre, ha rossz hely volt kiválasztva; címke nélküli (lekopott címkéjű) eszközök felvétele helyenként darabszámmal, párosítás a hiányzó tételekkel és újracímkézés; Niimbot nyomtató: automatikus keresés a portokon, a Bluetooth-eszköz neve a portlistában, a nyomtató állapota (akkumulátor, fedél, címke), és javítva a 'buffer' hibával megszakadó nyomtatás.",
+  "version": "0.6.5",
+  "date": "2026-11-17",
+  "notes": "Beolvasáskor a talált darabszám mindig látszik az eredménysávban, a vezetett nézet sávja új külsőt kapott. A vagyoncsoport a kódja szerint is felismerhető (nem jelez feleslegesen hiányzó vagyoncsoportot). Személyek betöltése Excelből más programok exportjából is: részekre bontott név (előtag, vezetéknév, utónév), Viselt név, Munkakör megnevezése. A címke nélküli eszközök listájában a megnevezés újra látszik. A kiszolgálót az ügyfelek előtt kell frissíteni.",
   "installer": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.4/leltar-0.6.4-telepito.exe",
-    "sha256": "d37b371e9d56e068c47e84dcc98a489fe3a3ad1fed88840c045449ac672359dc"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.5/leltar-0.6.5-telepito.exe",
+    "sha256": "a699e93c21bf5eca5eb5d3b6a7690208a532283e0864b2c3a56555cecf936b78"
   },
   "portable": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.4/leltar-0.6.4.exe",
-    "sha256": "67a2ca1b3f7533ee503d3078be5c27ab27976e8360b3fc6743a205db51c90c26"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.5/leltar-0.6.5.exe",
+    "sha256": "6c968cb85c5178cc31d32d555646ed858dd90f070901778678158f8bd56f2f11"
   }
 }
