@@ -1,13 +1,13 @@
 {
-  "version": "0.6.5",
-  "date": "2026-11-17",
-  "notes": "Beolvasáskor a talált darabszám mindig látszik az eredménysávban, a vezetett nézet sávja új külsőt kapott. A vagyoncsoport a kódja szerint is felismerhető (nem jelez feleslegesen hiányzó vagyoncsoportot). Személyek betöltése Excelből más programok exportjából is: részekre bontott név (előtag, vezetéknév, utónév), Viselt név, Munkakör megnevezése. A címke nélküli eszközök listájában a megnevezés újra látszik. A kiszolgálót az ügyfelek előtt kell frissíteni.",
+  "version": "0.7.0",
+  "date": "2026-11-18",
+  "notes": "Kiszolgáló: egy gépes adatok átvétele (mappából vagy a gépektől kérve, a személyek és listák összefésülésével), a kiszolgáló adatainak összefoglalója és kiürítése, gépek újraengedélyezése és törlése, a kiszolgálókulcs cseréje a gépek megtartásával; a rendszergazda megadásakor előforduló titkosítási hiba javítva. Személyek és partnerek saját oldala: elérhetőségek, törzsszám, titkosítva tárolt személyi azonosító és hozzáférések, nála lévő eszközök; nyomtatható hozzáférési lap és személykarton, hozzáférések a kiadási íven. Bejelentkezési adatok megjegyzése a gépen. Tömeges felvétel gyári számokkal, a gyári szám egyezésének jelzése. A leltárban a tételállapot teendőként kezelhető (megoldva, újranyitás), állapotonkénti összesítővel. A program nem hoz létre magától nyilvántartást. A kiszolgálót az ügyfelek előtt kell frissíteni (új adatbázisséma).",
   "installer": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.5/leltar-0.6.5-telepito.exe",
-    "sha256": "a699e93c21bf5eca5eb5d3b6a7690208a532283e0864b2c3a56555cecf936b78"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.7.0/leltar-0.7.0-telepito.exe",
+    "sha256": "c757db4f54cafc5c11408150efa2257a493e8843a3f234c5cf18ed54b5bd743c"
   },
   "portable": {
-    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.6.5/leltar-0.6.5.exe",
-    "sha256": "6c968cb85c5178cc31d32d555646ed858dd90f070901778678158f8bd56f2f11"
+    "url": "https://github.com/bigitus/leltar-release/releases/download/v0.7.0/leltar-0.7.0.exe",
+    "sha256": "c9921df2c58226bc070a6ff74a0be040c62f86fe1c16a9b898fc06de454c33ef"
   }
 }
